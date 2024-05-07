@@ -1,7 +1,47 @@
-### Hi there 👋
+# Hi, I'm Marco 👋
+
+I am a passionate for Cloud.
+
+
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my certification on some clouds.
+- 📝 I write things out technology
+- 🌐 Proud member of the _______________.
+- ✍️ Content Writer at https://linuxstgo.wordpress.com 
+
+## My Articles
+- Article here
+
+
+## Tech Stack
+My Skills
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - 
+  - 
+  - 
+  - 
+  - Diving into PostgreSQL 
+
+ ## 🏆 Achievements
+
+- 🌟 Completed 
+
+
+## 📬 Get in Touch
+
+- Connect with me on 
+- Read more of my articles on 
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**mbr4v0v/mbr4v0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
