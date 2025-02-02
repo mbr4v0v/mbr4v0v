@@ -1,6 +1,6 @@
 # Hi, I'm Marco 👋
 
-I am a passionate for Cloud.
+I am a passionate for Cloud and AI 
 
 
 ![mbr4v0v's Stats](https://github-readme-stats.vercel.app/api?username=mbr4v0v&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
