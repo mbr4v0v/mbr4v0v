@@ -14,7 +14,7 @@ I am a passionate for Cloud and AI
 - ✍️ Content Writer at https://linuxstgo.wordpress.com 
 
 ## My Articles
-- Article here
+- Article here https://www.linkedin.com/pulse/instalando-kubernetes-en-ubuntu-22045-lts-y-con-vez-de-marco-bravo-v--lvogf/?trackingId=VneGMj%2F%2FQBKVmXnGrtY8TA%3D%3D
 
 
 ## Tech Stack
@@ -22,26 +22,27 @@ My Skills
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - 
-  - 
-  - 
-  - 
-  - Diving into PostgreSQL 
+- 🚀 Learning Public and Hibrid Clouds
+  - AWS, AZURE, GCP,
+  - AI on Clouds and on-premises  
+  - Kubernetes
+  - Containers
+  - A Lot or Linux
+  - Gitub
+  - Diving into SQL 
 
- ## 🏆 Achievements
+ ## 🏆 Achievements 
 
 - 🌟 Completed 
-
+   AWS Certified Solutions Architect - Associate.
+   Preparing Networking and Security Specialty.
 
 ## 📬 Get in Touch
 
-- Connect with me on 
-- Read more of my articles on 
+- Connect with me on LinkedIn.com https://www.linkedin.com/in/mbravov/
+- Read more of my articles on Medium
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
 
 <!--
 
